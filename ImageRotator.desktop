@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Accessibility;Qt;Utility;
+Exec=ImageRotator
+Name=ImageRotator
+Name[zh_CN]=ImageRotator
+Icon=ImageRotator
+StartupNotify=false
+Terminal=false
+Type=Application
+GenericName=ImageRotator
+Version=1.0
